@@ -21,8 +21,8 @@ Plot the images of the original one and the filtered one using plt.figure() and 
 
 
 ## Program:
-### Developed By   :
-### Register Number:
+### Developed By   :M.CHANDRU
+### Register Number:212222230026
 </br>
 
 ### 1. Smoothing Filters
